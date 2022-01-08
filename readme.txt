@@ -1,6 +1,6 @@
 === Dark Mode for WPWenku ===
 Contributors: WenPai.org
-Tags: marctv, darkmode, dark mode, twentynineteen, Twenty Nineteen, iOS, Android, macOS, Windows10
+Tags: marctv, darkmode, dark mode, iOS, Android, macOS, Windows10
 Requires at least: 3.0
 Tested up to: 5.2.3
 Stable tag: 1.1
