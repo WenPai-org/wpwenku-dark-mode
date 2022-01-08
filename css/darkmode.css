@@ -1,0 +1,94 @@
+/* Define variables */
+
+@media (prefers-color-scheme: dark){
+    body {
+        background-color: #111111;
+    }
+  	body.custom-background {
+    background-color: #111111!important;
+}
+    pre, abbr[title], table, th, td, input, textarea, .main-navigation ul, .main-navigation li, .post-navigation, .post-navigation div + div, .pagination, .comment-navigation, .widget li, .widget_categories .children, .widget_nav_menu .sub-menu, .widget_pages .children, .site-header, .site-footer, .hentry + .hentry, .author-info, .entry-content .page-links a, .page-links > span, .page-header, .comments-area, .comment-list + .comment-respond, .comment-list article, .comment-list .pingback, .comment-list .trackback, .comment-list .reply a, .no-comments {
+        border-color: #333333;
+    }
+    body:before, .site-header {
+        background-color: #202020;
+    }
+    .site-header {
+        background-color: #202020;
+        border-bottom: 1px solid rgba(51, 51, 51, 0.1);
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        border-bottom-color: rgba(51, 51, 51, 0.1);
+    }
+    body, blockquote cite, blockquote small, a, .dropdown-toggle:after, .image-navigation a:hover, .image-navigation a:focus, .comment-navigation a:hover, .comment-navigation a:focus, .widget-title, .entry-footer a:hover, .entry-footer a:focus, .comment-metadata a:hover, .comment-metadata a:focus, .pingback .edit-link a:hover, .pingback .edit-link a:focus, .comment-list .reply a:hover, .comment-list .reply a:focus, .site-info a:hover, .site-info a:focus {
+        color: #bebebe;
+    }
+    .post-navigation, .pagination, .secondary, .site-footer, .hentry, .page-header, .page-content, .comments-area, .widecolumn {
+        background-color: #202020;
+    }
+    button, input, select, textarea {
+        background-color: #bebebe;
+    }
+    .secondary-toggle:before {
+        color: #bebebe;
+    }
+    blockquote, a:hover, a:focus, .main-navigation .menu-item-description, .post-navigation .meta-nav, .post-navigation a:hover .post-title, .post-navigation a:focus .post-title, .image-navigation, .image-navigation a, .comment-navigation, .comment-navigation a, .widget, .author-heading, .entry-footer, .entry-footer a, .taxonomy-description, .page-links > .page-links-title, .entry-caption, .comment-author, .comment-metadata, .comment-metadata a, .pingback .edit-link, .pingback .edit-link a, .post-password-form label, .comment-form label, .comment-notes, .comment-awaiting-moderation, .logged-in-as, .form-allowed-tags, .no-comments, .site-info, .site-info a, .wp-caption-text, .gallery-caption, .comment-list .reply a, .widecolumn label, .widecolumn .mu_register label {
+        color: rgba( 190, 190, 190, 0.7);
+    }
+    .entry-footer {
+        background-color: #1b1b1b;
+    }
+    .main-navigation ul, .main-navigation li, .widget input, .widget textarea, .widget table, .widget th, .widget td, .widget pre, .widget li, .widget_categories .children, .widget_nav_menu .sub-menu, .widget_pages .children, .widget abbr[title] {
+        border-color: rgba( 190, 190, 190, 0.1);
+    }
+    .secondary-toggle {
+        border-color: rgba( 190, 190, 190, 0.1);
+    }
+    entry-title a:before {
+    color: rgba(51, 51, 51, 0.7); 
+}
+	.entry-content, .entry-summary {
+	color:#bebebe;
+}
+	code{
+	    color:#bebebe;
+	    background-color: #333333;
+	}
+ .comments-area, .comment-list + .comment-respond, .comment-list article, .comment-list .pingback, .comment-list .trackback, .comment-list .reply a, .no-comments {
+    border-color: #555;
+}
+    code, kbd, tt, var, samp, pre {
+    background-color: #333333;
+}
+    code[class*="language-"], pre[class*="language-"] {
+    color: white;
+    background: #000000;
+    text-shadow: 0 1px black;
+}
+    .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string {
+    background: rgb(51 51 51 / 50%);
+}
+	.author-info {
+    border-color: #555;
+}
+	nav.navigation.post-navigation{border-color:#202020;}
+	footer#colophon.site-footer{border-color:#202020;}
+	img {
+    filter: brightness(0.8);
+}
+	button, input[type="button"], input[type="reset"], input[type="submit"] {
+    color: #bebebe;
+}
+    #mistape_dialog .dialog__content .dialog-wrap .dialog-wrap-top {
+    background: #101010;
+}
+    #mistape_dialog .dialog__content .dialog-wrap .dialog-wrap-bottom {
+    background: #101010;
+}
+.wp-embed {
+    border: 1px solid #303030;
+}
+.wp-embed-heading a {
+    color: #cbcbcb;
+}
+}
